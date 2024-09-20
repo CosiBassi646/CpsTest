@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+
+body{
+    background-color: rgb(65, 65, 65);
+}
+
+.area{
+    background-color: rgb(0, 59, 126);   
+    font-family: "Fredoka", sans-serif;
+    border-radius: 9px;
+    color: whitesmoke;
+    border: 2px solid black;
+}
+
+.start{
+    background-color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    border-radius: 6px;
+}
+
+.stop{
+    background-color: rgb(163, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    border-radius: 6px;
+}
+
+.testi{
+    color: white;
+}
+
+h1{
+    color: white;
+    font-family: "Fredoka", sans-serif;
+}
+
+.result{
+    background-color: rgb(34, 34, 34);
+    border-radius: 5px;
+}
+
+.punti{
+    color: white;
+    font-family: "Tiny5", sans-serif;
+}
